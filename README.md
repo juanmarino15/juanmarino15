@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/juanmarino15/juanmarino15/main/images/github-profile-pic.png" height="100px" width="1000px" align="center" />
 </div>
 
-<h1 align="center">Hi, I'm <a href="https://juanmarino15.github.io/Juan-Portfolio/">Juan</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32">
+<h1 align="center">Hi, I'm <a href="https://juanmarino15.github.io/Juan-Portfolio/">Juan</a> <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="32">
 </h1>
 
 
