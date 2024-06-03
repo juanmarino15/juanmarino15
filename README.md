@@ -152,9 +152,6 @@
 
 </div>
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blakesanie&hide=HTML&langs_count=9&layout=compact) -->
-
-
 
 <h3 align="center">to build ⚡💥🔥</h3>
 
@@ -162,4 +159,4 @@
 
 ## Currently Listening to 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=juasmarino&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=juasmarino&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true&show_offline=true)](https://github.com/kittinan/spotify-github-profile)
