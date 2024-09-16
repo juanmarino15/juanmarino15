@@ -112,19 +112,6 @@
 
 </div>
 
-<h3 align="center">and (hopefully) soon</h3>
-
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="24" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="24"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="24"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="24"/>
-
-
 </div>
 
 
