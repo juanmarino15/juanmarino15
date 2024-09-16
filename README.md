@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="200px" align="center" />
 </div>
 
-<h1 align="center">Hi, I'm <a href="https://juanmarino15.github.io/Juan-Portfolio/">Juan</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32">
+<h1 align="center">Hi, I'm <a href="https://juanmarino15.github.io/Juan-Portfolio/">Juan Marino</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32">
 </h1>
 
 
@@ -15,7 +15,7 @@
 	<a href="mailto:juasmarino@gmail.com"><img style="border-radius: 6px;" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<h3 align="center">MCS at <a href="https://en.wikipedia.org/wiki/University_of_Colorado_Boulder" target="_blank">University of Colorado Boulder </a> | Sports Analytics | Artificial Intelligence | Scalability and Automation</h3>
+<h3 align="center">MCS at <a href="https://en.wikipedia.org/wiki/University_of_Colorado_Boulder" target="_blank">University of Colorado Boulder </a> | Sports Analytics | Artificial Intelligence</h3>
 
 ---
 
